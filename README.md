@@ -1,20 +1,23 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [sioyek](https://sioyek.info)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Sioyek](https://sioyek.info).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+See INSTALL.md.
+
+<!-- All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar) -->
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s)
+<!-- and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors) [TODO]. -->
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![Raffaele Mancuso](https://github.com/raffaem.png?size=100)](https://github.com/raffaem) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [Raffaele Mancuso](https://github.com/raffaem)                                               |
 
 ## Community
 

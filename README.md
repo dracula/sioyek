@@ -6,7 +6,7 @@
 
 ## Install
 
-1. compile latest development verison os sioyek
+1. Compile latest development version of sioyek
 2. Clone this repo
 ```
 git clone https://github.com/raffaem/sioyek-dracula-theme
